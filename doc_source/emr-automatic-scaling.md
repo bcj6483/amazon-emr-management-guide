@@ -157,7 +157,6 @@ aws emr put-auto-scaling-policy --cluster-id j-1EKZ3TYEVF1S2 --instance-group-id
 The contents of the `autoscaleconfig.json` file, which defines the same scale\-out rule as shown in the previous example, is shown below\.
 
 ```
-"AutoScalingPolicy":
     {
      "Constraints":
       {
